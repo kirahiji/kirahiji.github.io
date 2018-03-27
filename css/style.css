@@ -24,8 +24,8 @@ body{
   background-color:#afa58d;
   color:#fff;
   text-decoration:none;
-  letter-spacing:1px;
-  font-size:0.9rem;
+letter-spacing:4px;
+  font-size:1.3rem;
 }
 .button:hover{
   opacity:0.9;
