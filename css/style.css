@@ -59,7 +59,6 @@ body{
 }
 .site-description{
   margin-bottom:50px;
-  color:#888;
   font-size:1.6rem;
 }
 
@@ -67,7 +66,7 @@ body{
 /*aboutme*/
 /*外枠だよ*/
 .about{
-  padding:100px 30px;
+  padding:80px 30px;
   background-color:#fff;
   color:#333;
 }
@@ -75,7 +74,8 @@ body{
 .heading{
   position: relative;
   display: inline-block;
-  margin: 20px 0 15px;
+  margin: 30px 0 15px;
+  padding-bottom: 15px;
   letter-spacing: 2px;
   font-size: 4rem;
 }
@@ -93,20 +93,17 @@ body{
 }
 
 /*自己紹介文*/
-.text{
-  padding: 20px 30px 250px;
-  /* aboutmeとの間の長さ：横幅：下から */
-}
-.nano{
-  display:inline-block;
-  width: 200px;
 
 
-}
 .about-text{
   margin:30px 0;
+  line-height: 2.5;
 }
 
-.text .nano{
-  margin: 10px;
+
+.study{
+  background: #151515 url('../images/星空2.JPG') no-repeat fixed left bottom;
+  background-size: cover;
+  color: #fff;
+padding: 100px 50px;
 }
